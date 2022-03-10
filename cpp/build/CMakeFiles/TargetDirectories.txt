@@ -1,0 +1,5 @@
+/mnt/c/users/lenovo/desktop/rigid_body_simulation/cpp/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/users/lenovo/desktop/rigid_body_simulation/cpp/build/CMakeFiles/edit_cache.dir
+/mnt/c/users/lenovo/desktop/rigid_body_simulation/cpp/build/CMakeFiles/rigid_body_simulation_demo.dir
+/mnt/c/users/lenovo/desktop/rigid_body_simulation/cpp/build/CMakeFiles/py_rigid_body_simulation_core.dir
+/mnt/c/users/lenovo/desktop/rigid_body_simulation/cpp/build/CMakeFiles/rigid_body_simulation_core.dir

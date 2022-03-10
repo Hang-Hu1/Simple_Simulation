@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wl,--no-as-needed -O3 -DNDEBUG   CMakeFiles/rigid_body_simulation_demo.dir/main.cpp.o  -o rigid_body_simulation_demo  -Wl,-rpath,/mnt/c/users/lenovo/desktop/rigid_body_simulation/cpp/build librigid_body_simulation_core.so 
